@@ -1,5 +1,12 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
 .color-bg{
     background-color: #fceae8;
+    border-radius: 8px;
+
 }
 .carousel-item{
     padding: 20px 40px;
@@ -15,4 +22,40 @@
     padding: 9px 25px;
     cursor: pointer;
 
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: palevioletred;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: whitesmoke;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow:  5px 5px 12px lightseagreen;
+}
+
+.card-footer{
+    text-align: center;
+}
+#contactus{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 10px;
+    
+}
+footer{
+    text-align: center;
 }
