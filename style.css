@@ -54,8 +54,12 @@
     height: 300px;
     background-color: #fceae8;
     border-radius: 10px;
+    box-shadow: 5px 5px 10px aquamarine;
     
 }
 footer{
     text-align: center;
+}
+.buy-button{
+    margin-top: 10px;
 }
